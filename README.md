@@ -12,9 +12,10 @@
 ## Getting Started
 
 These instructions will give you a copy of the project for you to use for development and testing purposes.
-##What is it?
 
-Nathy is a virtual wizard that uses a Telegram API written in Python, its structure created by lib [Telepot] (https://github.com/nickoala/telepot), and its plugins are made from the lib functions.
+#### What is it?
+
+Nathy is a virtual wizard that uses a Telegram API written in Python, its structure created by lib [Telepot](https://github.com/nickoala/telepot), and its plugins are made from the lib functions.
 * * *
 
 ## Configuring bot
@@ -42,7 +43,7 @@ $ git clone https://github.com/VycktorStark/Nathy.git
 
 > • Make sure privacy is off (more information on the [Bots official FAQ page](https://core.telegram.org/bots/faq#what-messages-will-my-bot-get)). Send `/setprivacy` for [BotFather](http://telegram.me/BotFather) To check the current setting.
 
-** Before doing anything, open the `config.py` file and with a text editor make the following changes: **
+**Before doing anything, open the `config.py` file and with a text editor make the following changes:**
 
 > • Set your Telegram ID to admin (in the `sudo` field).
 >
