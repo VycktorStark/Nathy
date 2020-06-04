@@ -15,7 +15,7 @@ These instructions will give you a copy of the project for you to use for develo
 
 #### What is it?
 
-Nathy is a virtual wizard that uses a Telegram API written in Python, its structure created by lib [Telepot](https://github.com/nickoala/telepot), and its plugins are made from the lib functions.
+Nathy is a virtual assistant who has basic artificial intelligence, she was developed in Python, her structure and plugins were created using lib [Telepot](https://github.com/nickoala/telepot) and her artificial intelligence was used [AIML](https://pypi.org/project/python-aiml/)
 * * *
 
 ## Configuring bot
